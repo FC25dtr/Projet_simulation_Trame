@@ -1,4 +1,4 @@
-#Projet IPC - Simulation d'un protocole de transport reseau réalisé en binome par Kelim et Tonin 
+# Projet IPC - Simulation d'un protocole de transport reseau réalisé en binome par Kelim et Tonin 
 
 ## Presentation generale du projet
 
